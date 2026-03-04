@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # PyCharm generated files
-.idea/
+.idea/praw.ini
